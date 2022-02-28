@@ -12,7 +12,7 @@
       "key": "pet",
       "value": {
         "idleAnimation": "",
-        "walkAnimation": "Jump",
+        "walkAnimation": "Kick",
         "runAnimation": ""
       }
     }
